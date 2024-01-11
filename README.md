@@ -1,5 +1,5 @@
 # sm
-[Cviko-2.html](https://solidsliper.github.io/sm/Cviko-2.html
+[Cviko-2.html](https://solidsliper.github.io/sm/Cviko-2.html)
 
 [Korelacie.html](https://solidsliper.github.io/sm/Korelacie.html)
 
